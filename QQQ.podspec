@@ -19,11 +19,6 @@ Pod::Spec.new do |spec|
   spec.version      = "0.0.2"
   spec.summary      = "测试"
 
-  # This description is used to generate tags and improve search results.
-  #   * Think: What does it do? Why did you write it? What is the focus?
-  #   * Try to keep it short, snappy and to the point.
-  #   * Write the description between the DESC delimiters below.
-  #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
                    DESC
 
@@ -52,7 +47,7 @@ Pod::Spec.new do |spec|
   #  profile URL.
   #
 
-  spec.author             = { "lxy" => "" }
+  spec.author             = { "lxy" => "denggray@163.com" }
   # Or just: spec.author    = "lxy"
   # spec.authors            = { "lxy" => "" }
   # spec.social_media_url   = "https://twitter.com/lxy"
